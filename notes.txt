@@ -1,0 +1,11 @@
+--> mkdir expressDayOne
+--> cd expressDayOne
+--> touch server.js
+--> npm init -y
+--> npm install express
+--> npm install nodemon
+--> touch .gitignore
+Add node_modules to the .gitignore
+
+
+npm install axios
